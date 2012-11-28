@@ -1,4 +1,4 @@
 npl
 ===
 
-nullpomino league
+Nullpomino League
